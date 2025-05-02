@@ -7,11 +7,11 @@
 ```bash
 
 ├── OCR/
-│   ├── backup/                      # Optional backups or temp files
+│   ├── backup/                      # backups or temp files
 │   ├── python_ocr.py               # Standalone script for OCR extraction
 │   ├── input_image/                # Contains input images to be processed
 │   │   ├── application.jpg
-│   ├── notebook_OCR.ipynb          # Jupyter notebook to compare OCR methods
+│   ├── notebook_OCR.ipynb          # google notebook to compare OCR methods
 │   ├── Python_OCRmethods/
 │   │   ├── EasyOCR/
 │   │   │   ├── main.py
@@ -23,7 +23,7 @@
 │   │   │   ├── main.py
 │   │   │   ├── readme.md
 ├── output/
-│   ├── grouped-output.txt          # Combined or final OCR output
+│   ├── grouped-output.txt          # Combined or final OCR outputs
 ├── .gitignore
 ├── LICENSE
 ├── README.md                       # Main project overview
