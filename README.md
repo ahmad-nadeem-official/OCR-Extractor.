@@ -1,7 +1,7 @@
 📝 OCR Extractor – Multi-Engine Text Recognition Tool
 =====================================================
 
-# 📂 Project Structure
+### 📂 Project Structure
 --------------------
 
 ```bash
