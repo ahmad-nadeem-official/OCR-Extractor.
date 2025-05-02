@@ -33,6 +33,8 @@
 📌 About the Project
 --------------------
 
+[![Open in Google Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-orange?logo=google-colab)](https://colab.research.google.com/drive/1j4nCLZFf2gI3VYSD48QGaiqdnIEgp6km#scrollTo=y6_7HAhQcVXb)
+
 This project is a simple and modular OCR (Optical Character Recognition) tool that supports three major text extraction engines: **Tesseract**, **EasyOCR**, and **PaddleOCR**. It is designed to help compare these tools in terms of accuracy and ease of integration.
 
 Each engine is isolated into its own subfolder with minimal runnable code, making it easy for beginners to understand and experiment with.
