@@ -1,4 +1,4 @@
-# 📗 3. **PaddleOCR**
+### 📗 3. **PaddleOCR**
 
 **Overview**:  
 PaddleOCR is a powerful OCR toolkit developed by Baidu. It uses deep learning models under the hood and supports text detection, recognition, and angle classification, making it highly accurate and versatile.
