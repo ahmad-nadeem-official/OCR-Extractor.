@@ -1,4 +1,4 @@
-# 📙 2. **EasyOCR**
+### 📙 2. **EasyOCR**
 
 **Overview**:  
 EasyOCR is a deep learning–based OCR library built on PyTorch. It supports multiple languages and performs well even with moderately distorted text, including some handwritten or stylized fonts.
